@@ -1,9 +1,9 @@
 # Decoding Neural spikes from LFPs
-<img width="641" height="351.4832483" alt="image" src="https://github.com/user-attachments/assets/4430666f-b2a1-492f-89e9-c8b054cf8236" />
+<img width="616" height="328" alt="image" src="https://github.com/user-attachments/assets/a9bf84c1-95f0-4acb-98a3-cd4881c1bedc" />
 
 ## Single STN
-<img width="250" height="270" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/2d877a02-73f2-433e-b121-a5cd64b3d636" />
-<img width="300" height="306.5934" alt="Radial neuron structure + synapse locations" src="https://github.com/user-attachments/assets/d4c0767d-9a1e-4805-b53f-064466cedd95" />
+<img width="250" height="270" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/a8dddb21-5668-4c7a-aaa7-91102a158194" />
+<img width="300" height="306.5934" alt="Radial neuron structure + synapse locations" src="https://github.com/user-attachments/assets/391a953e-e6bb-4c47-9d4b-542482fdd384" />
 
 - soma + dendrite(5) + branch(10) raidal 형태
 - 시냅스 분포 시
